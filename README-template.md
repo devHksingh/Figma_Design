@@ -47,7 +47,7 @@ UI design
 
 -  Design URL: [Photo Cropping](https://www.figma.com/file/XCEg6qLS4LtPSSj1Q6iXwb/Practice%3A-Cropping?node-id=0%3A1)
 
-![](./img/pika-396886-unsplash.png)
+![](./img/Soft%20Crop%20-%20Color.png)
 ![](./img/Soft%20Crop%20-%20Light%20Blue.png)
 ![](./img/Soft%20Crop%20-%20White.png)
 ![](./img/Extreme%20Crop.png)
